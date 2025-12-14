@@ -28,6 +28,5 @@ This project demonstrates routing, middleware, logging, UUID handling, and an in
 - **rustc-serialize** – Serialization support
 
 ---
-
-## 📁 Project Structure
+ 
 
